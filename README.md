@@ -1,7 +1,7 @@
 
 <!-- Remember README file can understand HTML Tag -->
 
-<div style="text-align:center"><h1 style="display:inline-block; color:blue" >Markdown Syntax</h1></div>
+<p align='center'>Markdown Syntax</p>
 
 ---
 
@@ -23,5 +23,26 @@ this is normal text. i am from paragraph. i am using to understand to give some 
 <!-- Link Syntax Start -->
 https://sajibkhan.vercel.app/
 
+### Disible Link:
+
 `https://sajibkhan.vercel.app/`
+
+### Short Link:
+
+[sajibkhan](https://sajibkhan.vercel.app/)
+
+### Short Link With Array:
+
+[facebook][facebook]
+[linkedin][linkedin]
+
+[facebook]: https://www.facebook.com/
+[linkedin]: https://www.linkedin.com/feed/
 <!-- Link Syntax End -->
+
+
+
+<!-- Image Syntax Start -->
+![profile](./profile.jpg)
+
+<!-- Image Syntax End -->
