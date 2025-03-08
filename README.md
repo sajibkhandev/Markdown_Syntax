@@ -6,6 +6,8 @@
 ---
 
 <!-- Heading Syntax Start -->
+### Heading:
+
 # This is Heading One.
 ## This is Heading Two
 ### This is Heading Three.
@@ -16,11 +18,13 @@
 
 
 <!-- Paragraph Syntax Start -->
+### Paragraph:
 this is normal text. i am from paragraph. i am using to understand to give some information. so you can read me.
 <!-- Paragraph Syntax End -->
 
 
 <!-- Link Syntax Start -->
+### Live Link:
 https://sajibkhan.vercel.app/
 
 ### Disible Link:
@@ -43,6 +47,7 @@ https://sajibkhan.vercel.app/
 
 
 <!-- Image Syntax Start -->
+### Image:
 ![profile](./images/profile.jpg)
 <!-- Image Syntax End -->
 
@@ -70,7 +75,7 @@ https://sajibkhan.vercel.app/
 - Item Two
 - Item Three
 
-### Task List
+### Task List:
 
 - [x] Task1
 - [x] Task1
@@ -81,11 +86,13 @@ https://sajibkhan.vercel.app/
 
 
 <!-- Italic Syntax Start -->
+### Italic:
 _This is an italic text_
 <!-- Italic Syntax End -->
 
 
 <!-- Bold Syntax Start -->
+### Bold:
 **This is an Bold text**
 <!-- Bold Syntax End -->
 
@@ -97,6 +104,7 @@ _This is an italic text_
 
 
 <!-- Blockquotes Syntax Start -->
+### Blockquotes:
 > This is a blockquote.
 > This is a blockquote.
 <!-- Blockquotes Syntax End -->
@@ -104,6 +112,7 @@ _This is an italic text_
 
 
 <!--  Code Syntax Start -->
+### Single line code
 `<h1> Markdown Language </h1>`
 <!--  Code Syntax End -->
 
@@ -115,6 +124,7 @@ _This is an italic text_
 
 
 <!--  Code Block Syntax Start -->
+### Double line code
 ```
   <html>
   <head> </head>
