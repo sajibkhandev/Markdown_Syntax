@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Markdown Syntax</h1>
+<p align="center" >Markdown Syntax</p>
 
 ---
 
