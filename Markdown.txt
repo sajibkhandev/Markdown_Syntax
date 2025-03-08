@@ -1,18 +1,17 @@
 Sytex of Markdown:
 
 1. Heading
-2. Paragraph  
-3. Link ,,, a tag
+2. Paragraph ,,, (normal text)
+3. Link ,,,  (a tag) 
 4. Image
 5. List
-6. Normal text
-7. Italic
-8. Bold
-9. Space
-10. Code
-11. Code Block
-12. Strikethrough
-13. Horizontal rule
-14. Blockquotes
-15. Emoji
-16. Table 
+6. Italic
+7. Bold
+8. Space
+9. Code
+10. Code Block
+11. Strikethrough
+12. Horizontal rule
+13. Blockquotes
+14. Emoji
+15. Table 
