@@ -1,3 +1,4 @@
+<h1 style="text-align:center;">Markdown Syntax</h1>
 <!-- Heading Syntax Start -->
 # This is Heading One.
 ## This is Heading Two
