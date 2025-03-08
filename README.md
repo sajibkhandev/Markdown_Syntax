@@ -76,6 +76,74 @@ https://sajibkhan.vercel.app/
 - [x] Task1
 - [] Task1
 
-
-
 <!-- List Syntax End -->
+
+
+
+<!-- Italic Syntax Start -->
+_This is an italic text_
+<!-- Italic Syntax End -->
+
+
+<!-- Bold Syntax Start -->
+**This is an Bold text**
+<!-- Bold Syntax End -->
+
+
+<!-- space Syntax Start -->
+<!-- double enter -->
+<!-- space Syntax End -->
+
+
+
+<!-- Blockquotes Syntax Start -->
+> This is a blockquote.
+> This is a blockquote.
+<!-- Blockquotes Syntax End -->
+
+
+
+<!--  Code Syntax Start -->
+`<h1> Markdown Language </h1>`
+<!--  Code Syntax End -->
+
+
+<!--  Horizontal rule Syntax Start -->
+---
+<!--  Horizontal rule Syntax End -->
+
+
+
+<!--  Code Block Syntax Start -->
+```
+  <html>
+  <head> </head>
+  <body> </body>
+  </html>
+```
+### html:
+```html
+<html>
+  <head> </head>
+  <body></body>
+</html>
+```
+### css:
+```css
+head {
+  background-color: green;
+}
+```
+### javascript:
+```javascript
+console.log("hello");
+```
+<!--  Code Block Syntax End -->
+
+
+<!--  Emoji Syntax Start -->
+### Emoji:
+😀 ❤️
+<!--  Emoji Syntax End -->
+
+
