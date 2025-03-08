@@ -44,6 +44,38 @@ https://sajibkhan.vercel.app/
 
 <!-- Image Syntax Start -->
 ![profile](./images/profile.jpg)
-
-
 <!-- Image Syntax End -->
+
+
+
+<!-- List Syntax Start -->
+### Ordered List:
+1. Item One
+
+       1.Item1.1
+
+       2.Item1.2
+
+       3.Item1.3
+2. Item Two
+3. Item Three
+
+### Unordered List:
+
+- Item One
+
+      item one.1
+      item one.2
+    
+- Item Two
+- Item Three
+
+### Task List
+
+- [x] Task1
+- [x] Task1
+- [] Task1
+
+
+
+<!-- List Syntax End -->
