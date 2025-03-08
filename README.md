@@ -43,6 +43,6 @@ https://sajibkhan.vercel.app/
 
 
 <!-- Image Syntax Start -->
-![profile](./images/profile.jpg)
+![profile](profile.jpg)
 
 <!-- Image Syntax End -->
