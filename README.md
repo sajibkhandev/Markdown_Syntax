@@ -9,11 +9,11 @@
 ### Heading:
 
 # This is Heading One.
-## This is Heading Two
+## This is Heading Two.
 ### This is Heading Three.
 #### This is Heading Four.
-##### This is Heading Five
-###### This i Heading Six
+##### This is Heading Five.
+###### This i Heading Six.
 <!-- Heading Syntax Start -->
 
 
@@ -112,7 +112,7 @@ _This is an italic text_
 
 
 <!--  Code Syntax Start -->
-### Single line code
+### Single line code:
 `<h1> Markdown Language </h1>`
 <!--  Code Syntax End -->
 
@@ -124,7 +124,7 @@ _This is an italic text_
 
 
 <!--  Code Block Syntax Start -->
-### Double line code
+### Double line code:
 ```
   <html>
   <head> </head>
@@ -155,5 +155,17 @@ console.log("hello");
 ### Emoji:
 😀 ❤️
 <!--  Emoji Syntax End -->
+
+
+<!--  Table Syntax Start -->
+### Table:
+
+| ID:         | Title:                  | Email:  |
+| ------------| ----------------------  | --------
+| 01          | Sajib khan              | sajibkhan.cit.bd@gmail.com|
+| 02          | Sajib khan              | sajibkhan.cit.bd@gmail.com|
+| 03          | Sajib khan              | sajibkhan.cit.bd@gmail.com|
+
+<!--  Table Syntax End -->
 
 
